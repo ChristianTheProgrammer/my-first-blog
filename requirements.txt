@@ -1,1 +1,1 @@
-DJango~=3.2.10ls
+DJango~=3.2.10
